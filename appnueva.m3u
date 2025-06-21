@@ -76,3 +76,16 @@ http://201.217.246.177:8000/play/a07b/index.m3u8
 
 #EXTINF:-1  ch-number="22" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/57692590073142.png" ,Cinemax
 http://201.217.246.177:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 ch-number="23" tvg-id="StudioUniversalSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png" audio-track="spa", Studio Universal
+http://143.0.67.77:8000/play/a022/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+#EXTINF:-1 ch-number="24" tvg-logo="https://static.flow.com.ar/images/732/CH_LOGO/60/40/0/0/952123260745.png"  ,Volver
+https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
+#EXTINF:-1 ch-number="25" tvg-logo="https://static.flow.com.ar/images/322/CH_LOGO/60/40/0/0/77955190072999.png" ,TNT Series
+https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
