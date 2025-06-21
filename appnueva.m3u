@@ -51,5 +51,5 @@ https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Can
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ,Canal 10 TUCUMÁN
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" ch-number="17", ESPN Premium 
-http://143.0.67.77:8000/play/a078/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium ch-number="17"
+https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
