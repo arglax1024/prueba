@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" ch-number="2" , TN
 http://143.0.67.77:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" ch-number="3" , C5N
-http://143.0.67.77:8000/play/a01p/index.m3u8
+#EXTINF:-1 ch-number="3" tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/800/542/0/0/8952752307709.png" , C5N
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" ch-number="4", Cronica HD
 http://201.217.246.177:8000/play/a01q/index.m3u8
