@@ -5,8 +5,10 @@
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" ch-number="2" , TN
 http://143.0.67.77:8000/play/a058/index.m3u8
 
-#EXTINF:-1 ch-number="3" tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/800/542/0/0/8952752307709.png" , C5N
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+#EXTINF:-1 ch-number="17" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png"  ,C5N
+https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" ch-number="4", Cronica HD
 http://201.217.246.177:8000/play/a01q/index.m3u8
@@ -51,5 +53,5 @@ https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Can
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ,Canal 10 TUCUMÁN
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium ch-number="17"
+#EXTINF:0 type="stream" ch-number="17" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium
 https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
