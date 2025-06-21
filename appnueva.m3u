@@ -35,3 +35,12 @@ https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" ch-number="13", 7 NORTE TV
 https://ntvcanal7.ddns.net:81/dash/stream.mpd
+
+#EXTINF:-1 ch-number="14",24/7 EL CHAVO DEL OCHO
+http://tvlatino.club:2082/clientexfe1001/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" ch-number="15", EL OCHO TUCUMAN
+https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
+
+#EXTINF:-1   group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ch-number="16" ,Canal 10 TUCUMÁN
+https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd
