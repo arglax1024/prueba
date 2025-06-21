@@ -38,8 +38,8 @@ https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" ch-number="13", 7 NORTE TV
 https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
-#EXTINF:-1,24/7 EL CHAVO DEL OCHO | (OAK)
-http://tvlatino.club:2082/clientexfe1001/WQDcx9SStETz/551258
+#EXTINF:-1,24/7 EL CHAVO DEL OCHO || (OAK)
+http://tvlatino.club:2082/clientexfe1001/WQDcx9SStETz/551273
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
