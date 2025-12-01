@@ -64,13 +64,13 @@ https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 ch-number="15" group-title="CCC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png"  ,Canal 8 TV TUCUMÁN
-https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 group-title="CCC" ch-number="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" group-title="🇦🇷 KOKE IPTV"  ,🌐 Canal 8 TV TUCUMÁN
+https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 group-title="CCC" ch-number="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ,Canal 10 TUCUMÁN
-https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 group-title="CCC" ch-number="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="🇦🇷 KOKE IPTV"  ,🌐 Canal 10 TUCUMÁN
+https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
