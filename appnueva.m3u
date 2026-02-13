@@ -14,8 +14,8 @@ http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157607
 #EXTINF:-1  tvg-id="CronicaTV.ar" tvg-logo="https://static.flow.com.ar/images/269/CH_LOGO/60/40/0/0/80757659073986.png" group-title="CCC" ch-number="04"  , Cronica TV
 https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 group-title="CCC" ch-number="05" tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/9332819.jpg", Quiero Musica
-http://181.13.173.86:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="" ch-number="05" group-title="CCC" tvg-name="Teleritmo" tvg-logo="http://23.153.216.121:25461/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CCC",Teleritmo
+http://tv.proyectox.vip:8080/dirizarry/10308b93528e/8318
 
 #EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" ch-number="06" tvg-name="Canal 26" tvg-logo="https://i.postimg.cc/zfcWphT5/Proyecto-X-Argentina-(5).png" group-title="CCC",Canal 26
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157594
