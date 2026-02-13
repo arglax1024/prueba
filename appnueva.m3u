@@ -66,8 +66,8 @@ http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157583
 #EXTINF:-1 tvg-id="" ch-number="20" tvg-name="TNT Sports" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="CCC",TNT Sports
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157585
 
-#EXTINF:-1 ch-number="21" tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="Fox Sports" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CCC",Fox Sports
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9575
+#EXTINF:-1 tvg-id="foxsportspremium.ar"  ch-number="21" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png",FOX SPORTS PREMIUM
+http://bstv.online:8080/live/68moct01/9846871h/1107304.m3u8
 
 #EXTINF:-1 ch-number="22" tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="Directv Sports" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CCC",Directv Sports
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9560
@@ -96,14 +96,14 @@ http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9672
 #EXTINF:-1 ch-number="30" tvg-id="Canal.Studio.Universal.(México).mx" tvg-name="Studio Universal" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="CCC",Studio Universal
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9732
 
-#EXTINF:-1 ch-number="31" tvg-id="" tvg-name="Volver" tvg-logo="https://i.postimg.cc/TPS8GTZc/Proyecto-X-Argentina-(29).png" group-title="CCC",Volver
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157581
+#EXTINF:-1 tvg-id="volver.ar" ch-number="31" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/volver.png",VOLVER
+http://bstv.online:8080/live/68moct01/9846871h/1107336.m3u8
 
 #EXTINF:-1 ch-number="32" tvg-id="Canal.TNT.Series.(México).mx" tvg-name="TNT Series" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CCC",TNT Series
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9749
 
-#EXTINF:-1 ch-number="33" tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CCC",Star Channel
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9725
+#EXTINF:-1 tvg-id="starchannel.mx" ch-number="33" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/starchannel.png",STAR CHANNEL
+http://bstv.online:8080/live/68moct01/9846871h/1076053.m3u8
 
 #EXTINF:-1 ch-number="34" tvg-id="Canal.Universal.Cinema.sv" tvg-name="Universal Cinema" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CCC",Universal Cinema
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9756
@@ -114,8 +114,8 @@ http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9774
 #EXTINF:-1 ch-number="36" tvg-id="Canal.AXN.(México).mx" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CCC",AXN
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9623
 
-#EXTINF:-1 ch-number="37" tvg-id="" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="CCC",Sony Channel
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/164699
+#EXTINF:-1 tvg-id="62ksmokansascity.us" ch-number="37" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/sonymoviechannel.png",SONY CHANNEL
+http://bstv.online:8080/live/68moct01/9846871h/1108158.m3u8
 
 #EXTINF:-1 ch-number="38" tvg-id="Canal.E!.Entertainment.Television.(México).mx" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="CCC",E!
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9646
