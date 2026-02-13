@@ -3,10 +3,10 @@
 #EXTINF:-1 ch-number="01" group-title="CCC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CLARO TV",Cine.AR
 http://201.217.246.177:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="" ch-number="02" group-title="CCC" tvg-name="TN" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" ,ARG - TN (M)(720)
+#EXTINF:-1 tvg-id="" ch-number="02" group-title="CCC" tvg-name="TN" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" ,TN
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157577
 
-#EXTINF:-1 tvg-id="" ch-number="03" tvg-name="C5N" tvg-logo="https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png" ,ARG - C5N (M)(720)
+#EXTINF:-1 tvg-id="" ch-number="03" group-title="CCC" tvg-name="C5N" tvg-logo="https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png" ,C5N
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157566
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
