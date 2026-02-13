@@ -57,13 +57,13 @@ https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10
 #EXTINF:-1 tvg-id="" ch-number="17" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="CCC",ESPN
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157558
 
-#EXTINF:-1 tvg-id="" ch-number="18" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="CCC",ESPN Premium
+#EXTINF:-1 tvg-id="" ch-number="18" tvg-name="ESPN Premium" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-title="CCC",ESPN Premium
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157562
 
 #EXTINF:-1 tvg-id="" ch-number="19" tvg-name="TyC Sports" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="CCC",TyC Sports
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157583
 
-#EXTINF:-1 tvg-id="" ch-number="20" tvg-name="TNT Sports" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="CCC",TNT Sports
+#EXTINF:-1 tvg-id="" ch-number="20" tvg-name="TNT Sports Premium" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="CCC",TNT Sports Premium
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157585
 
 #EXTINF:-1 tvg-id="foxsportspremium.ar"  ch-number="21" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png",FOX SPORTS PREMIUM
@@ -143,43 +143,3 @@ http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9811
 
 #EXTINF:-1 tvg-id="" ch-number="46" tvg-name="History" tvg-logo="https://logos.xbots.com.mx/89.png" group-title="CCC",History
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9838
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
-#EXTINF:-1  tvg-id="Encuentro.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" ch-number="47" group-title="CCC", Encuentro
-https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
-#EXTINF:-1 ch-number="48" tvg-id="Home and Health HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png" group-title="CCC", Discovery Home And Health
-https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0853b1d2af7d6ee5f7a8a571637ee6b7:f173ff83e8a50d7d0c363cde0c261dc6
-#EXTINF:-1 ch-number="49" tvg-id="El Gourmet HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/160/160/0/0/15069203073244.png" group-title="CCC", El Gourmet
-https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTINF:-1 ch-number="50" tvg-id="Pakapaka.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="CCC", Paka Paka
-https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d91b14935a3599f02e5dab71ef21dc:803e9152e9daf717b772399a97802076
-#EXTINF:-1 ch-number="51" tvg-id="Disney Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png" group-title="CCC", Disney Channel
-https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=18654944953b25a8b6392722a83db653:40bf6a9f05bbf0e06715ed5707f0edd2
-#EXTINF:-1 ch-number="52" tvg-id="Disney Jr HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png" group-title="CCC", Disney Jr.
-https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7efe63bbf682a4124fb34c01eb7a0a7:48667511b8668df96fa3abaa623e4f69
-#EXTINF:-1 ch-number="54" tvg-id="Cartoon Network.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="CCC", Cartoon Network
-https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTINF:-1 ch-number="55" tvg-id="Tooncast.uy"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png" group-title="CCC", Tooncast
-https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
