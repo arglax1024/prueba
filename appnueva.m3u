@@ -6,8 +6,8 @@ http://tv.proyectox.vip:8080/dirizarry/10308b93528e/174839
 #EXTINF:-1 tvg-id="" ch-number="02" group-title="CCC" tvg-name="TN" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" ,TN
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157577
 
-#EXTINF:-1 tvg-id="" ch-number="03" tvg-name="C5N" tvg-logo="https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png" group-title="CCC",C5N
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157607
+#EXTINF:-1 tvg-id="" ch-number="03" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/c5n.png",C5N
+http://bstv.online:8080/live/68moct01/9846871h/1107335.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
