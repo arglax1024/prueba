@@ -158,15 +158,15 @@ https://lilac01.pontiscloud.com/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|refe
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTINF:-1 ch-number="28" tvg-id="HBO Plus HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="CCC",, HBO Plus
+#EXTINF:-1 ch-number="28" tvg-id="HBO Plus HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="CCC", HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://lilac01.pontiscloud.com/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
-#EXTINF:-1  ch-number="29" tvg-id="Studio Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="CCC", Studio Universal
+#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
+#EXTINF:-1  tvg-id="CineAr.ar" ch-number="29" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png" group-title="CCC", Cine.AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+https://lilac01.pontiscloud.com/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
@@ -194,15 +194,15 @@ https://lilac01.pontiscloud.com/live/eds/StarChannel/live_dash_cld/StarChannel.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a65e77fb5f2838b2f97c778cc571ac2:bc1f28b1ec619ed7da22fc9a80d3a35d
-#EXTINF:-1 ch-number="34" tvg-id="Universal Cinema.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="CCC",, Universal Cinema
+#EXTINF:-1 ch-number="34" tvg-id="Universal Cinema.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="CCC", Universal Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://lilac01.pontiscloud.com/live/eds/UniCin/live_dash_cld/UniCin.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 ch-number="35" tvg-id="Warner HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="CCC", Warner TV
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+#EXTINF:-1 group-title="CCC" ch-number="35" tvg-id="CINE PREMIUM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/160/160/0/0/30781400075257.png", Cine Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+https://lilac01.pontiscloud.com/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
