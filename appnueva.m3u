@@ -1,39 +1,66 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
-#EXTINF:-1 tvg-id="" ch-number="01" tvg-name="Bonanza" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/9lA8E6ShDiTECyjmnnBNQdQpifK.jpg" group-title="CCC",Bonanza
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/174839
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+#EXTINF:-1 group-title="CCC" ch-number="01" tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="CCC", A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="02" group-title="CCC" tvg-name="TN" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" ,TN
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157577
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTINF:-1 group-title="CCC"  ch-number="02" tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" tvg-group="CCC", TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="03" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/c5n.png",C5N
-http://bstv.online:8080/live/68moct01/9846871h/1107335.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 group-title="CCC"  ch-number="03" tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="CCC", C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1  tvg-id="CronicaTV.ar" tvg-logo="https://static.flow.com.ar/images/269/CH_LOGO/60/40/0/0/80757659073986.png" group-title="CCC" ch-number="04"  , Cronica TV
 https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" ch-number="05" group-title="CCC" tvg-name="Teleritmo" tvg-logo="http://23.153.216.121:25461/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CCC",Teleritmo
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/8318
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
+#EXTINF:-1 ch-number="05" tvg-id="Quiero.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="CCC", Quiero Música
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" ch-number="06" tvg-name="Canal 26" tvg-logo="https://i.postimg.cc/zfcWphT5/Proyecto-X-Argentina-(5).png" group-title="CCC",Canal 26
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157594
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
+#EXTINF:-1 group-title="CCC" ch-number="06" tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" tvg-group="CCC", Canal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://i.postimg.cc/Fs4SPNdC/Proyecto-X-Argentina-(17).png" ch-number="07" group-title="CCC",LN+
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157593
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
+#EXTINF:-1 group-title="CCC" ch-number="07" tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="CCC", La Nación +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="08" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="CCC",TV Publica
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157586
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#EXTINF:-1  tvg-id="Television Pública.ar" ch-number="08" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="CCC", TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="09" tvg-name="El Nueve" tvg-logo="https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png" group-title="CCC",El Nueve
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157621
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
+#EXTINF:-1 group-title="CCC"  ch-number="09" tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" tvg-group="CCC", El nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" ch-number="10" group-title="CCC", PALOMAR TV
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="America TV" tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="CCC",America TV
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157624
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#EXTINF:-1 group-title="CCC" ch-number="11" tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" tvg-group="CCC", América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDv1HkrWUAMAmQF?format=jpg&name=large" ch-number="12" group-title="CCC", PANC TV
 https://panel.host-live.com:19360/20004/20004.m3u8
@@ -41,33 +68,52 @@ https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 group-title="CCC" ch-number="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" ,24/7 EL CHAVO DEL OCHO
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279007.m3u8
 
-#EXTINF:-1 tvg-id="" ch-number="14" tvg-name="Telefe" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="CCC",Telefe
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157589
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTINF:-1  ch-number="14" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="CCC", Telefé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 group-title="CCC" ch-number="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" ,🌐 Canal 8 TV TUCUMÁN
+#EXTINF:-1 group-title="CCC" ch-number="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" ,Telefe Tucuman
 https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 group-title="CCC" ch-number="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ,🌐 Canal 10 TUCUMÁN
+#EXTINF:-1 group-title="CCC" ch-number="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ,Canal 10 Tucuman
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
 
-#EXTINF:-1 tvg-id="" ch-number="17" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="CCC",ESPN
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157558
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+#EXTINF:-1 ch-number="17" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="CCC", ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="18" tvg-name="ESPN Premium" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-title="CCC",ESPN Premium
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157562
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 ch-number="18" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="CCC", ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="19" tvg-name="TyC Sports" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="CCC",TyC Sports
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157583
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTINF:-1 ch-number="19" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="CCC", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="" ch-number="20" tvg-name="TNT Sports Premium" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="CCC",TNT Sports Premium
-http://tv.proyectox.vip:8080/dirizarry/10308b93528e/157585
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#EXTINF:-1 ch-number="20" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="CCC", TNT Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="foxsportspremium.ar"  ch-number="21" tvg-name="" group-title="CCC" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png",FOX SPORTS PREMIUM
-http://bstv.online:8080/live/68moct01/9846871h/1107304.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+#EXTINF:-1 ch-number="21" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="CCC", FOX Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://lilac01.pontiscloud.com/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
 
 #EXTINF:-1 ch-number="22" tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="Directv Sports" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CCC",Directv Sports
 http://tv.proyectox.vip:8080/dirizarry/10308b93528e/9560
