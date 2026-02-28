@@ -1,0 +1,100 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+#EXTINF:-1 ch-number="01" tvg-logo="https://static.flow.com.ar/images/726/CH_LOGO/60/40/0/0/43956127073681.png" group-title="CCC"  , Tooncast
+https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+#EXTINF:-1 ch-number="02" tvg-logo="https://static.flow.com.ar/images/70/CH_LOGO/60/40/0/0/22986115071847.png" group-title="CCC"  ,  TN
+https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+#EXTINF:-1 ch-number="03" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="CCC"  ,  C5N
+https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#EXTINF:-1 ch-number="04" tvg-logo="https://static.flow.com.ar/images/269/CH_LOGO/60/40/0/0/80757659073986.png" group-title="CCC"  ,  Cronica  
+https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+#EXTINF:-1 ch-number="05" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/60/40/0/0/80393273073281.png" group-title="CCC" , Quiero Música
+https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+#EXTINF:-1  ch-number="06" tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="CCC" ,  Canal 26
+https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+#EXTINF:-1 ch-number="07" tvg-logo="https://static.flow.com.ar/images/1081/CH_LOGO/60/40/0/0/30427098073644.png" group-title="CCC" ,  La Nación +
+https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1  ch-number="08" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="CCC" ,  TV Pública
+https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+#EXTINF:-1  ch-number="09" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png" group-title="CCC" ,  Elnueve
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" ch-number="10" group-title="CCC", PALOMAR TV
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1  ch-number="11" group-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Flow_Argentina_2020.png/revision/latest/scale-to-width-down/250?cb=20211008234630&path-prefix=es" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="CCC" ,  América
+https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDv1HkrWUAMAmQF?format=jpg&name=large" ch-number="12" group-title="CCC", PANC TV
+https://panel.host-live.com:19360/20004/20004.m3u8
+
+#EXTINF:-1 group-title="CCC" ch-number="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" ,24/7 EL CHAVO DEL OCHO
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279007.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1   ch-number="14" tvg-logo="https://static.flow.com.ar/images/69/CH_LOGO/60/40/0/0/65442435072354.png" group-title="CCC" ,  Telefe
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+#EXTINF:-1 group-title="CCC" ch-number="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" ,Telefe Tucuman
+https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+#EXTINF:-1 group-title="CCC" ch-number="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" ,Canal 10 Tucuman
+https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1  ch-number="17" tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/60/40/0/0/71306601073189.png" group-title="CCC" ,  ESPN
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1  ch-number="18" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="CCC"  ,   ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1  ch-number="19" tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="CCC"  ,  TyC Sports
+https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1  ch-number="20" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png" group-title="CCC" ,   TNT Sports
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1   ch-number="21" tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="CCC" ,  FOX Sports 1
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
