@@ -10,8 +10,20 @@ https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/C
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="⭐ DIRECTV ⭐"  ,🌐 Canal 10 TUCUMÁN
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
 
+#EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="⭐ DIRECTV ⭐",C5N
+http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/c5n_720.m3u8
+
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ DIRECTV ⭐", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="⭐ DIRECTV ⭐",TyC Sports
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts
+
+#EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="⭐ DIRECTV ⭐",ESPN Premium
+http://181.13.252.102:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="⭐ DIRECTV ⭐",TNT Sports Premium
+http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="⭐ DIRECTV ⭐", TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
