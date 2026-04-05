@@ -178,9 +178,6 @@ http://190.7.19.197:232/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="CCC",Europa Europa
 http://190.7.19.197:232/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="CCC",Eventos HD
-http://190.7.19.197:232/play/a022/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="CCC",FX HD
 http://190.7.19.197:232/play/a04z/index.m3u8
 
