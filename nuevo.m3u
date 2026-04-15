@@ -202,16 +202,6 @@ https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/Discovery
 https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
-#EXTINF:-1  tvg-id="AMERICA SPORTS.ar" tvg-logo="https://i.postimg.cc/fWrf82xx/Logo-2.png" group-title="CCC"Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="CCC", Flow Sports
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
-#EXTINF:-1  tvg-id="Flow Sports 2.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png" group-title="CCC", Flow Sports 2
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
 #EXTINF:-1  tvg-id="PAKA PAKA (ARG).ar" tvg-logo="https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png" group-title="CCC", Paka Paka
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd
