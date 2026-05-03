@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TNT Sports Premium" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" ,TNT Sports Premium
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" ,ESPN Premium
+http://181.13.252.102:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" ,C5N
+http://181.13.252.102:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://iili.io/BQ2A4PS.th.png" ,Telefe
+http://ultrapremium.cloud:8080/961212472tv1/i568pxsw2/61548
+
+#EXTINF:-1 tvg-id="Cronica" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" ,Cronica
+http://45.5.151.147:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/BQ2RNsV.th.png" ,El Nueve
+http://181.13.252.102:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" ,El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://iili.io/JKrHXh7.png" ,TyC Sports
+http://181.13.252.102:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/JKrdO5x.png" ,ESPN 2
+http://191.97.14.162:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" ,ESPN 3
+http://45.5.151.147:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports
+http://181.13.252.102:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" ,Space
+http://181.13.252.102:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" ,HBO
+http://190.108.83.69:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/Tw5yqYgC/hbo2.png" ,HBO 2
+http://181.13.252.102:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" ,HBO Plus
+http://181.13.252.102:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://iili.io/JKgSQDB.png" ,El Gourmet
+http://181.13.252.102:8000/play/a06w/index.m3u8
