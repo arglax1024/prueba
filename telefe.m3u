@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina2.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cp8ZSkzs/elocho.png" group-title="CCC", EL OCHO TV TUCUMAN
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefetucuman.json
