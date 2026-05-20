@@ -1,0 +1,17 @@
+#EXTM3U
+
+✔️ Canal 8 📱 (Tucuman)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal8tucuman.png" group-title="🏡 Provincia",✔️ Canal 8 📱 (Tucuman)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
+
+✔️ Canal 10 📱 (Tucuman)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal10tucuman.png" group-title="🏡 Provincia",✔️ Canal 10 📱 (Tucuman)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
+
+✔️ Canal 12 Metro TV (Tucumán)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal12metrotvtucuman.png" group-title="🏡 Provincia",✔️ Canal 12 Metro TV (Tucumán)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
