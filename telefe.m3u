@@ -37,7 +37,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png" group-title="CCC",Fox Sports HD
 http://190.7.19.197:232/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png" group-title="CCC", C5N
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CCC", C5N
 https://faster-viale.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="CCC", TyC SPORTS
