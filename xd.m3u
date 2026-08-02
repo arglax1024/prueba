@@ -20,7 +20,7 @@ https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch
 http://181.232.188.21:8282/play/384/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="CCC", TNT SPORTS
-http://138.59.227.20:8000/play/a06z/index.m3u8
+http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="CCC",ESPN Premium
 http://181.209.38.115:8000/play/a00f/index.m3u8
