@@ -16,8 +16,11 @@ https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc
 #EXTVLCOPT:http-referer=https://portal.app.flow.com.py/
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="CCC", TELEFE
+#EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="CCC",Telefe A
 http://181.232.188.21:8282/play/384/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="CCC",Telefe B
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="CCC", TNT SPORTS
 http://181.209.38.115:8000/play/a00j/index.m3u8
@@ -34,8 +37,34 @@ http://38.43.132.201:8000/play/a0wu/index.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://iili.io/JKrHXh7.png" group-title="CCC",TyC Sports
 http://181.232.188.21:8282/play/a05h/index.m3u8
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CCC",C5N
+#EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CCC",C5N A
+http://45.134.141.161:2200/ARG/C5N/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CCC",C5N B
 http://138.59.227.20:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="CCC",Television Publica
+https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="CCC", PALOMAR TV
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="CCC",Radio M2O
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+
+#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="CCC",Retro Plus
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1047798552.m3u8
+
+#EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="CCC",El Canal de la Musica
+https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="RockTV" tvg-logo="https://i.postimg.cc/pTh69HVy/rocktv.png" group-title="CCC",RockTV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://i.postimg.cc/Xq918kCb/toptv.png" group-title="CCC",TopTV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+#EXTINF:-1 tvg-id="Vclassic TV" tvg-logo="https://i.ibb.co/Jqq4Z79/vclassictv.png" group-title="CCC",Vclassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="CCC",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
