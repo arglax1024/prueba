@@ -34,14 +34,14 @@ http://179.43.96.253:8000/play/a24x/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTV Sports" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="CCC",DIRECTV Sports
 http://38.43.132.201:8000/play/a0wu/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://iili.io/JKrHXh7.png" group-title="CCC",TyC Sports
-http://181.232.188.21:8282/play/a05h/index.m3u8
-
 #EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CCC",C5N A
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CCC",C5N B
 http://138.59.227.20:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://iili.io/JKrHXh7.png" group-title="CCC",TyC Sports
+http://181.232.188.21:8282/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="CCC",Television Publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
